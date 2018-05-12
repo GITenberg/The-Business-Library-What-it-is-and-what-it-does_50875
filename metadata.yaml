@@ -1,10 +1,16 @@
 _repo: The-Business-Library-What-it-is-and-what-it-does_50875
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50875-h/images/cover.jpg
 creator:
   author:
     agent_name: Krause, Louise B.
     gutenberg_agent_id: '46121'
     url: http://www.gutenberg.org/2009/agents/46121
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50875#The-Business-Library-What-it-is-and-what-it-does
 gutenberg_issued: '2016-01-07'
 gutenberg_type: Text
 identifiers:
